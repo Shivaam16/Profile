@@ -9,11 +9,26 @@
 
 ## 🏆 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Shivaam16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaam16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Projects:
+- **CineBooking 🎥** - *Movie ticket booking system with seamless UI & payment integration.*
+- **Homzy 🏠** - *Real estate platform for property listings, scheduling visits, and connecting buyers with agents.*
+- **Weather App 🌦** - *JavaScript-based real-time weather application.*
+- **Sign Language Recognition ✋** - *Machine Learning project using OpenCV & Python.*
+
+---
+
+## 🏆 LeetCode Stats:
+<p align="center">
+  <a href="https://leetcode.com/u/skshivamkaushik16/">
+    <img src="https://leetcard.jacoblin.cool/skshivamkaushik16?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -28,14 +43,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
----
-
-## 🚀 Projects:
-- **Medical Appointment Scheduling Platform** 🏥 - *Web app for booking doctor appointments.*
-- **Real Estate Website** 🏡 - *Platform for buying & selling properties.*
-- **Weather App** 🌦 - *JavaScript-based real-time weather application.*
-- **Sign Language Recognition** ✋ - *Machine Learning project using OpenCV & Python.*
 
 ---
 
