@@ -18,7 +18,7 @@
 
 ## 🚀 Projects:
 - **CineBooking 🎥** - *Movie ticket booking system with seamless UI & payment integration.*
-- **Homzy 🏠** - *Real estate platform for property listings, scheduling visits, and connecting buyers with agents.*
+- **Homyz 🏠** - *Real estate platform for property listings, scheduling visits, and connecting buyers with agents.*
 - **Weather App 🌦** - *JavaScript-based real-time weather application.*
 - **Sign Language Recognition ✋** - *Machine Learning project using OpenCV & Python.*
 
