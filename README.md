@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shivam Kaushik</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI & Cloud Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Scalable+Solutions;Always+Learning+New+Techs!">
+</p>
+
+---
 
 ## 🚀 About Me
 - 🌱 I’m currently working on **MERN Stack Projects**
-- 🤝 I’m looking to collaborate on **Web Development & AI Projects**
-- 💼 I’m actively seeking **Job & Internship opportunities**
+- 🤝 I’m open to collaborating on **Web & AI Projects**
+- 💼 Actively seeking **Job & Internship opportunities**
 - 💡 Passionate about **solving real-world problems with technology**
 
 ---
@@ -16,8 +22,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
