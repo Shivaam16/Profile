@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kaushik</h1>
-<h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Scalable+Solutions;Always+Learning+New+Techs!">
@@ -7,15 +7,18 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently working on **MERN Stack Projects**
-- 🤝 I’m open to collaborating on **Web & AI Projects**
-- 💼 Actively seeking **Job & Internship opportunities**
-- 💡 Passionate about **solving real-world problems with technology**
+## 🏆 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaam16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivaam16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaam16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack:
+## ⚡ Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -28,18 +31,15 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaam16&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivaam16&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaam16&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+## 🚀 Projects:
+- **Medical Appointment Scheduling Platform** 🏥 - *Web app for booking doctor appointments.*
+- **Real Estate Website** 🏡 - *Platform for buying & selling properties.*
+- **Weather App** 🌦 - *JavaScript-based real-time weather application.*
+- **Sign Language Recognition** ✋ - *Machine Learning project using OpenCV & Python.*
 
 ---
 
-## 🤝 Connect with Me:
+## 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-kaushik-31a450228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
