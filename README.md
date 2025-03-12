@@ -30,11 +30,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaam16&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaam16&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivaam16&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivaam16&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaam16&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaam16&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
