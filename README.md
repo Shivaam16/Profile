@@ -1,6 +1,5 @@
-# Hi 👋, I'm Shivam Kaushik
-
-## 🚀 Software Engineer | MERN Stack Developer | Open to Work
+<h1 align="center">Hi 👋, I'm Shivam Kaushik</h1>
+<h3 align="center">🚀 Software Engineer | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer;MERN+Stack+%7C+C%2B%2B+%7C+Python;Building+Scalable+Solutions;Always+Learning+New+Techs!">
@@ -8,8 +7,11 @@
 
 ---
 
-## 🚀 Looking for Opportunities  
-🎯 **Actively seeking a Software Developer role** where I can apply my skills in **MERN stack, backend development, and cloud technologies** to build scalable and efficient solutions. Open to full-time opportunities!
+## 🔹 About Me:
+- 🚀 Passionate software developer with expertise in **MERN stack** and backend development.
+- 💡 Strong problem-solving skills with hands-on experience in **React.js, Node.js, MongoDB, and Express.js**.
+- 🔍 Interested in **real-world problem-solving projects** and **building scalable applications**.
+- 🎯 Currently looking for **exciting job opportunities** in software development.
 
 ---
 
@@ -67,4 +69,4 @@
 
 ---
 
-⭐ **Let's build something amazing together!** 🚀
+⭐ **Let's build something amazing together!**
